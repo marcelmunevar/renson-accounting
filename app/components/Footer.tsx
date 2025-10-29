@@ -2,7 +2,7 @@ const Footer = () => {
   return (
     <footer className="">
       <div className="container mx-auto flex gap-8 flex-col">
-        <p className="text-sm text-center p-4">
+        <p className="text-sm text-center p-4 hidden">
           Image Source:{" "}
           <a className="text-red-600" href="http://www.wocintechchat.com/">
             WOCinTechChat

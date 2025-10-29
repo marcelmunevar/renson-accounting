@@ -10,6 +10,9 @@ export default {
     extend: {
       backgroundImage: {
         hero: "url('/Finish-Line-Pic.jpg')",
+        taxprep: "url('/Tax-prep.jpg')",
+        fullservice: "url('/full-service.jpg')",
+        taxplanning: "url('/tax-planning.jpg')",
       },
       colors: {
         background: "var(--background)",
